@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="FwJ$}-!a0KBseiRWoatC">1</variable></variables><block type="device_gesture_event" id="qE5CvxnjrR,:n@cCZDmw" x="39" y="-434"><field name="NAME">Gesture.TiltLeft</field><statement name="HANDLER"><block type="input_compass_calibrate" id="=Xzk_`YSs%)i5kaVe4[v"><next><block type="device_show_leds" id="$T8~(3TA5f0EH3I.W9/Z"><field name="LEDS">`
+        . . . . . 
+        . # . . . 
+        # # # # # 
+        . # . . . 
+        . . . . .
+        `</field></block></next></block></statement></block><block type="device_gesture_event" id="Q^oW@JG9ks4ZmhZ9.k:e" x="270" y="-441"><field name="NAME">Gesture.TiltRight</field><statement name="HANDLER"><block type="input_compass_calibrate" id="yeyE16u);u@n@-a}*g3u"><next><block type="device_show_leds" id="(Xilc6o$.9T?F.sg+Fd."><field name="LEDS">`
+        . . . . . 
+        . . . # . 
+        # # # # # 
+        . . . # . 
+        . . . . .
+        `</field></block></next></block></statement></block><block type="device_gesture_event" id="@4kY}0R.oeV$E.d#{2ya" x="517" y="-432"><field name="NAME">Gesture.LogoUp</field><statement name="HANDLER"><block type="input_compass_calibrate" id="fGI`$1_6%8I|IaWdHK+#"><next><block type="device_show_leds" id="cH%sys!kv*[Z.VZ|Xx|l"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . # # # . 
+        . . # . .
+        `</field></block></next></block></statement></block><block type="device_gesture_event" id="|xZimmu_|3w:wvUjqum7" x="749" y="-433"><field name="NAME">Gesture.LogoDown</field><statement name="HANDLER"><block type="input_compass_calibrate" id="*r5YLN5oEK|$!-E6CMcG"><next><block type="device_show_leds" id="#0g@2XF`DMN*]NZ!OHw)"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field></block></next></block></statement></block></xml>
